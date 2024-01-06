@@ -34,5 +34,7 @@ sudo docker run -d -p 3000:3000 imagename
 
 git config --global --unset http.proxy git config --global --unset https.proxy git config --global --unset core.gitproxy
 
-
-
+-------------------------------------------
+Morya@@123
+Morya@123
+e-Morya@7117
